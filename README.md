@@ -1,4 +1,6 @@
-# Hi there, I'm Athaya Yazid 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Athaya%20Yazid%20👋&fontSize=38&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
 🎓 **Information Technology Student @ Telkom University Surabaya**  
 💻 Frontend & Backend Enthusiast | 🤖 AI Learner | 🛡️ Cybersecurity Beginner | 🔌 IoT Tinkerer
@@ -51,13 +53,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazidskuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazidskuy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yazidskuy&theme=tokyonight" width="100%" alt="GitHub Summary" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazidskuy&theme=tokyonight&hide_border=true" width="99%" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🤝 Let's Connect!
