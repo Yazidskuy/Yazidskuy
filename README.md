@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Athaya%20Yazid%20👋&fontSize=38&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="./Bebas4.jpg" width="100%" style="border-radius: 10px;" alt="Header Banner" />
 </p>
 
 🎓 **Information Technology Student @ Telkom University Surabaya**  
