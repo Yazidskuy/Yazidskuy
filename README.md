@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Bebas4.jpg" width="100%" style="border-radius: 10px;" alt="Header Banner" />
+  <img src="./Bebas4.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Header Banner" />
 </p>
 
 🎓 **Information Technology Student @ Telkom University Surabaya**  
